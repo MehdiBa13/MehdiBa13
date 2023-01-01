@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehdiBcr
-- 👀 I’m interested in Game development, cyberSecurity, appDev and AI
+- 👀 I’m interested in gameDev, cyberSecurity, appDev and AI
 - 🖥️ I’m mastering Python, Java, C/C++, HTML/CSS
 - 🌱 I’m currently learning BrainF**k
 
